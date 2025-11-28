@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Taskini - Task Management Application
 
 A full-stack task management web application built with React and Node.js/Express.
@@ -121,4 +121,3 @@ The API will run on `http://localhost:5000`
 =======
 # Taskini
 Taskini is a full-stack, React-based Task Management web application designed to help users organize, track, and prioritize their daily activities with ease. Taskini allows users to create, edit, categorize, and monitor tasks efficiently, offering a streamlined workflow and a modern, user-friendly experience.
->>>>>>> abeafa9d4ca21b592c28d30737294294b728c826
