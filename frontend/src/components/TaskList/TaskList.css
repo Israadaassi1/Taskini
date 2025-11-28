@@ -1,0 +1,17 @@
+.task-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.task-list-empty {
+  text-align: center;
+  padding: 3rem;
+  background: white;
+  border-radius: 8px;
+  color: #777;
+}
+
+.task-list-empty p {
+  font-size: 1.1rem;
+}
+
